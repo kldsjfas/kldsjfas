@@ -16,10 +16,10 @@
 
 ### ▌ 来找我玩
 
-<kbd> <a href="https://xn--killer-gx2m.top/">　博客 · killer星.top　</a> </kbd>　　<kbd> <a href="https://space.bilibili.com/1737120002">　哔哩哔哩　</a> </kbd>　　<kbd> <a href="https://steamcommunity.com/profiles/76561199523455134/">　Steam　</a> </kbd>
+<kbd> <a href="https://xn--killer-gx2m.top/">　博客 · killer星.top　</a> </kbd>　　<kbd> <a href="https://space.bilibili.com/1737120002">　哔哩哔哩</a> </kbd><kbd> <a href="https://steamcommunity.com/profiles/76561199523455134/">　Steam　</a> </kbd>
 
 <br>
 
 <div align="center">
-<sub><i>「 一切皆为虚无……So, everything has meaning！」</i></sub>
+<sub><i>「一切皆为虚无……So, everything has meaning!」</i></sub>
 </div>
