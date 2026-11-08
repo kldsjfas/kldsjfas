@@ -12,7 +12,7 @@
 
 ### ▌ 趁手的家伙
 
-<kbd> Python </kbd>　<kbd> Java </kbd>　<kbd> JavaScript </kbd>　<kbd> C++ </kbd>　<kbd> Unity · C# </kbd>
+<kbd>Python</kbd> <kbd>Java</kbd> <kbd>JavaScript</kbd> <kbd>C++</kbd> <kbd>Unity · C#</kbd>
 
 ### ▌ 来找我玩
 
